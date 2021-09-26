@@ -1,0 +1,7 @@
+E:\Cursos\Assistir\C# Completo orientação objt\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\12. Projeto Sistema de jogo de xadrez\Nova pasta\xadrez-console\xadrez-console\bin\Debug\xadrez-console.exe.config
+E:\Cursos\Assistir\C# Completo orientação objt\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\12. Projeto Sistema de jogo de xadrez\Nova pasta\xadrez-console\xadrez-console\bin\Debug\xadrez-console.exe
+E:\Cursos\Assistir\C# Completo orientação objt\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\12. Projeto Sistema de jogo de xadrez\Nova pasta\xadrez-console\xadrez-console\bin\Debug\xadrez-console.pdb
+E:\Cursos\Assistir\C# Completo orientação objt\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\12. Projeto Sistema de jogo de xadrez\Nova pasta\xadrez-console\xadrez-console\obj\Debug\xadrez-console.csproj.AssemblyReference.cache
+E:\Cursos\Assistir\C# Completo orientação objt\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\12. Projeto Sistema de jogo de xadrez\Nova pasta\xadrez-console\xadrez-console\obj\Debug\xadrez-console.csproj.CoreCompileInputs.cache
+E:\Cursos\Assistir\C# Completo orientação objt\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\12. Projeto Sistema de jogo de xadrez\Nova pasta\xadrez-console\xadrez-console\obj\Debug\xadrez-console.exe
+E:\Cursos\Assistir\C# Completo orientação objt\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\12. Projeto Sistema de jogo de xadrez\Nova pasta\xadrez-console\xadrez-console\obj\Debug\xadrez-console.pdb
